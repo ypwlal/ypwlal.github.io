@@ -7,7 +7,7 @@
 
 # Site settings
 title: Mj's blog
-email: himizu
+email: himiltu
 description: > # this means to ignore newlines until "baseurl:"
   Mj 胡言乱语的地方。
 baseurl: "" # the subpath of your site, e.g. /blog
