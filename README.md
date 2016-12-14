@@ -1,6 +1,7 @@
 # ypwlal.github.io
 blog
 
+http://ypwlal.github.io
 
 ## relative
 
